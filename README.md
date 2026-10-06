@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Christabel 👋🏾
 
-<!--
-**dev-koala/dev-koala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend & Full-Stack Developer | CMS Engineer | Product-focused Technologist**
 
-Here are some ideas to get you started:
+I build modern web applications and digital experiences across frontend, backend, and CMS platforms — with a focus on clean architecture, usability, and getting products from requirements to implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Frontend**
+- TypeScript, JavaScript
+- React, Next.js
+- Vue, Nuxt
+- Tailwind CSS, SCSS
+
+**Backend**
+- Node.js, Fastify
+- PostgreSQL, Prisma
+- REST APIs
+- Authentication & authorization
+
+**CMS**
+- Sanity
+- Storyblok
+- Contentstack
+
+**Tools & Platforms**
+- Git & GitHub
+- Vercel, Netlify
+
+### 📋 Product & Delivery
+
+- Product discovery and requirements gathering
+- Product requirements and technical specifications
+- User stories and acceptance criteria
+- Product delivery and coordination
+- Translating business requirements into technical solutions
+
+### 🚀 What I Work On
+
+- Frontend and full-stack web applications
+- CMS-driven websites and platforms
+- REST APIs and backend services
+- Product-focused engineering
+- Technical requirements and product delivery
+
+### 📌 Featured Projects
+
+Coming soon...
+
+### 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/christabel-quaye-780a1a1a9/
+- Portfolio: [Coming soon]
