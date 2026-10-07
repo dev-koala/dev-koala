@@ -49,5 +49,5 @@ Coming soon...
 
 ### 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/christabel-quaye-780a1a1a9/
+- [LinkedIn](https://www.linkedin.com/in/christabel-quaye-780a1a1a9/)
 - Portfolio: [Coming soon]
