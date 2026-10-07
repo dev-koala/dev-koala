@@ -1,8 +1,8 @@
 # Hi, I'm Christabel 👋🏾
 
-**Frontend & Full-Stack Developer | CMS Engineer | Product-focused Technologist**
+**Technical Product Owner | Software Engineer**
 
-I build modern web applications and digital experiences across frontend, backend, and CMS platforms — with a focus on clean architecture, usability, and getting products from requirements to implementation.
+I work across the product, from understanding the problem and shaping requirements to building the interfaces, APIs and systems behind them.
 
 ### 🛠️ Tech Stack
 
